@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import UserInput from './components/UserInput'
 
-export class App extends Component {
+export class App extends React.Component {
   render() {
     return (
       <div className="App">
